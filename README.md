@@ -1,3 +1,8 @@
+> This fork includes a fix for DeepSeek:
+> Skip image parts for DeepSeek models to avoid `unknown variant "image_url"`.
+> Change location: `app/api/chat/route.ts`
+> PR: https://github.com/DayuanJiang/next-ai-draw-io/pull/326
+
 # Next AI Draw.io
 
 <div align="center">
